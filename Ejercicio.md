@@ -17,4 +17,4 @@ Los usuarios serán alumnos, y administradores del sistemas.
 ## 2.5 Design and implementation constraints
 Tendremos que trabajar con el lenguaje y proyectos que ya están desarrollados.   
 
-# 3. Procesos Manuales para automatizar
+
