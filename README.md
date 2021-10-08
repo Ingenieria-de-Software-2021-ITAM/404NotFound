@@ -21,4 +21,3 @@ Los usuarios serán alumnos, y administradores del sistemas.
 
 ## 2.5 Design and implementation constraints
 Tendremos que trabajar con el lenguaje y proyectos que ya están desarrollados.   
-![image](https://user-images.githubusercontent.com/47729566/136568812-b58612c5-1003-4dd5-94d1-17692d371416.png)
