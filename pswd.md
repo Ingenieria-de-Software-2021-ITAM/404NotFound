@@ -8,4 +8,4 @@ Liga al prototipo: https://app.moqups.com/EM7uQiezoavFZ1b6TI0MGdYIl4R1YfjY/view/
 # Estimated days to complete - Individual Expert Judgement
 | Feature | Best case | Most likely case | Worst case | Expected case |
 | ----- | ---- | ---- | ---- | ---- |
-| Proyecto de las contraseñas | 7 días hábiles | 10 días hábiles | 14 días hábles | 12 días hábiles |
+| Proyecto de las contraseñas | 4 días hábiles | 7 días hábiles | 10 días hábles | 7 días hábiles |
